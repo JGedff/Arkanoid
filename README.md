@@ -1,2 +1,2 @@
 # Arkanoid
-Made with java for Wndows USERS
+Made with java ONLY for WINDOWS users
